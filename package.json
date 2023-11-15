@@ -1,0 +1,21 @@
+{
+  "name": "ponisha-bot",
+  "version": "1.0.0",
+  "description": "ponisha scrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tariush",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "@colors/colors": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "color": "^4.2.3",
+    "corepack": "^0.14.2",
+    "npm": "^8.19.2",
+    "request-promise": "^4.2.6",
+    "request-promise-native": "^1.0.9"
+  }
+}
